@@ -3,7 +3,7 @@
 Instructions to run-
 1. Clone the repo.
 2. Run : npm install (to install the node modules)
-3. Start: npm start (to run the project)
+3. Run : npm start (to run the project)
 
 Description-
 1.	The API used for fetching movie data was OMDB Api. 
