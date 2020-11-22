@@ -2,6 +2,7 @@
 
 Instructions to run-
 1. Clone the repo.
+2. Run : cd Autocomplete-react 
 2. Run : npm install (to install the node modules)
 3. Run : npm start (to run the project)
 
