@@ -1,6 +1,11 @@
 ## Implemented Multi-select Autocomplete using React
 
+Instructions to run-
+1. Clone the repo.
+2. Run : npm install (to install the node modules)
+3. Start: npm start (to run the project)
 
+Description-
 1.	The API used for fetching movie data was OMDB Api. 
 Note - The api from OMDB was returing a single movie with all the details if I use their "t" paramter. I used the "s" paramter to get a list of movie suggestions,with type=movie. This does not return Director's name, so I am displaying "Year" with the movie "Title".
  
