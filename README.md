@@ -1,4 +1,4 @@
-This project is done as a part of Take-Home Coding Assignment from Eightfold for the Front-End Position.
+##This project is done as a part of Take-Home Coding Assignment from Eightfold for the Front-End Position.
 
 1.	Implemented multi-select autocomplete.
 
